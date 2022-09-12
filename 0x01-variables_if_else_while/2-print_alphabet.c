@@ -5,7 +5,6 @@
  * Return: Always 0 (success)
  */
 int main(void)
-
 {
 	for (char x = 'a'; x <= 'z'; x++)
 	{
