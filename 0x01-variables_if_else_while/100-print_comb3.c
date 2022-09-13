@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (success)
  */
-int mian(void)
+int main(void)
 
 {
 	int digit1, digit2;
