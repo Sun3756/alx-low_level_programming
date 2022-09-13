@@ -8,15 +8,18 @@
 int main(void)
 
 {
-	char x, y;
+	char x;
 
-	for (x = 'a'; y = 'A'; 'a' <= 'z'; 'A' <= 'Z'; a++; A++)
+	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
-		putchar(y);
+	}
+	for (x = 'A'; x <= 'Z'; x++)
+	{
+		putchar(x);
 	}
 	{
-		putchar('\n')
+		putchar('\n');
 	}
 	return (0);
 }
