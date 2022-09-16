@@ -18,8 +18,7 @@ int main(void)
  * {
  * putchair(i);
  * }
- */d
-	printf("infinite loop avoided! \\o/\n");
-	
+ */
+printf("infinite loop avoided! \\o/\n");	
 return (0);
 }
